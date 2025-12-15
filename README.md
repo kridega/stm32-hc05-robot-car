@@ -5,6 +5,9 @@ STM32-based 4-wheel Ackermann car with UART control using HC05 bluetooth module 
 ## Hardware
 - STM32F103C8T6
 - DC motors
+- L298N motor driver
+- 12v Batter pack
+- Buck converter
 - IR sensor (HW201)
 - HC05
 
