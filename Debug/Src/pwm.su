@@ -1,0 +1,4 @@
+../Src/pwm.c:12:6:pwm_init	16	static
+../Src/pwm.c:54:6:analogWrite	16	static
+../Src/pwm.c:67:6:pwm_test	24	static
+../Src/pwm.c:78:6:move_motor	16	static

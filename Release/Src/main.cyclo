@@ -1,0 +1,5 @@
+../Src/main.c:29:6:systick_init	1
+../Src/main.c:42:6:delay_ms	2
+../Src/main.c:47:5:main	3
+../Src/main.c:73:6:SysTick_Handler	1
+../Src/main.c:77:6:USART1_IRQHandler	5

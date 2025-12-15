@@ -1,0 +1,7 @@
+"./Src/main.o"
+"./Src/parse.o"
+"./Src/pwm.o"
+"./Src/syscalls.o"
+"./Src/sysmem.o"
+"./Src/uart.o"
+"./Startup/startup_stm32f103c8tx.o"

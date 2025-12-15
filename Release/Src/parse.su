@@ -1,0 +1,4 @@
+../Src/parse.c:17:6:parseMotorCommand	8	static
+../Src/parse.c:48:9:isSingleCommand	0	static
+../Src/parse.c:61:6:handle_single	0	static
+../Src/parse.c:94:6:motor_control	16	static
