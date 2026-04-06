@@ -1,6 +1,6 @@
 # STM32 Ackermann Car
 
-STM32-based 4-wheel Ackermann car with UART control using HC05 bluetooth module and obstacle detection.
+Bare-metal STM32-based Ackermann steering robot with BLE control and collision avoidance
 
 ## Hardware
 - STM32F103C8T6
