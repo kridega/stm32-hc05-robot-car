@@ -12,6 +12,9 @@ Bare-metal STM32-based Ackermann steering robot with BLE control and collision a
 - HC05
 
 ## Features
+- No HAL used
+- Register-level control
+- Timer/PWM usage
 - UART command control
 - Garbage Data Safety Protocol
 - Differential steering logic
